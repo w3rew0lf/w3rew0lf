@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://tryhackme-badges.s3.amazonaws.com/WereWolf.png" alt="TryHackMe" width="300" height="200">
+<img src="https://tryhackme-badges.s3.amazonaws.com/WereWolf.png" alt="TryHackMe" width="150" height="75">
 <!--
 **WereWolfpy/WereWolfpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
