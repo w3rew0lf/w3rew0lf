@@ -4,9 +4,6 @@
   Knows Python, Computer Networking , Linux , C++<br>
   Currently Studying For CEH Exam <br>
   Would Learn Js,SQL and FrontEnd(maybe)<br>
-<img src ="https://raw.githubusercontent.com/WereWolfpy/WereWolfpy/0fae28b03a6c591c247fe1f5d0e1bd6973ca3370/366398.jpg" alt="Mountains"></img>
-
-
 
 <!--
 **WereWolfpy/WereWolfpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
