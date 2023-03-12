@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhav Goyal</h1>
 <h3 align="center">A Passionate Red Teamer from India</h3>
 
-- 🌱 I’m currently learning **CEH**
+- **CEH** Certified 
+- 📜 [Certifications](https://www.linkedin.com/in/goyalbhav/details/certifications/) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/w3rew0lf/w3rew0lf/](https://github.com/w3rew0lf/w3rew0lf/)
 
