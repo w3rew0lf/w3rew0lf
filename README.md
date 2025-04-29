@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Dark Web , VAPT, PenTesting**
 
-- 📫 How to reach me **goyalbhav0504@gmail.com**
+- 📫 How to reach me **goelbhav54@gmail.com**
 
-- 🕸 [Portfolio Website](https://w3rew0lf.github.io/) 
+- 🕸 [Personal Blog](https://w3rew0lf.github.io/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
